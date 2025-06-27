@@ -1,3 +1,8 @@
+//Approach : base case if both are null, return true
+//if one of them is null , return false
+//check for left and right
+//if there is left && right && same value then return true else false
+
 class Solution {
 public:
     // DFS
